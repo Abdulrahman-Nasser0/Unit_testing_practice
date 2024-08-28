@@ -1,4 +1,4 @@
-# TDD Style Long Practice: Test-Driven Development
+# TDD Style Unit Testing Practice: Test-Driven Development
 
 Now it is time to start writing some tests! For this next practice, you'll be
 using test-driven development (TDD). A TDD approach dictates that you'll follow
